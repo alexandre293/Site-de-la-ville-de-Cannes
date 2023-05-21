@@ -1,0 +1,40 @@
+/* ses stylecss pour index */
+
+img {
+    display: block;
+    width: 30%;
+    margin: auto;
+}
+
+.item {
+    margin-bottom: 10px;
+}
+
+.horreur {
+    list-style-type:'👻' ;
+}
+
+.argent {
+    list-style-type: '💶' ;
+}
+
+.luxe {
+    list-style-type: "";
+}
+body {
+    background-color: black;
+    color: white;
+    padding: 30px;
+} 
+
+h1 {
+    color:rgb(206, 214, 102);
+}
+
+h2 {
+    color: rgb(154, 225, 162);
+}
+
+.mon_style {
+    color: rgb(173, 131, 212);
+}
